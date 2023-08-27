@@ -9,7 +9,7 @@
 
 - 🚀 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://swamithedev.vercel.app/](https://swamithedev.vercel.app/)
+- 👨‍💻 All of my projects are available at [ https://github.com/swamithedev/](https://github.com/swamithedev/)
 
 - 💬 Ask me about anything here! **I am happy to help**
 
