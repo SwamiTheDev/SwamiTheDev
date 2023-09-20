@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello World 👋, My Name is Swaminathan Selvam</h1>
-<h3 align="center">And I'M UI/UX Desginer + Developer</h3>
+<h3 align="center">And I'M Front End Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamithedev&label=Profile%20views&color=0e75b6&style=flat" alt="swamithedev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swamithedev&theme=" alt="swamithedev" /></a> </p>
