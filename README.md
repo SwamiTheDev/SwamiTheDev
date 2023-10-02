@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="center">Passionate Web Developer | Crafting Digital Experiences with Code 🚀 | HTML5, CSS3, JavaScript, React, Vue.js | Front End Developer | UI/UX Developer | Web Developer | Web Desginer</h6>
+<h6 align="center" color='black'>Passionate Web Developer | Crafting Digital Experiences with Code 🚀 | HTML5, CSS3, JavaScript, React, Vue.js | Front End Developer | UI/UX Developer | Web Developer | Web Desginer</h6>
 
 ###
 
