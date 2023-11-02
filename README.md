@@ -1,396 +1,145 @@
-> Looking For Translation to different languages & Locale  [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
+<!--
+<h2 align="center">
+  Welcome to Al Siam World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 
-# Dev Metrics in Readme with added feature flags 🎌
-
-![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
-
+<!--
 <p align="center">
-  
-  ![Project Preview](https://user-images.githubusercontent.com/15426564/88030180-8e1c4780-cb58-11ea-8a8b-b3576dd73652.png)
-  
-  <h3 align="center">📌✨Awesome Readme Stats</h3>
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-----
+ -->
 
-<p align="center">
-   <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/stars/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/forks/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![waketime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://swamithedev.vercel.app">Swamithedev</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=swamithedev&oq=swamithedev&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRhBMgYIBBBFGDwyBggFEEUYQTIGCAYQRRhBMgYIBxBFGDzSAQg0Mjc4ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8">「 Google Me 」</a>
+    <br>
+    「 <h6 align="center" color='black'>Passionate Web Developer | Crafting Digital Experiences with Code 🚀 | HTML5, CSS3, JavaScript, React, Vue.js | Front End Developer | UI/UX Developer | Web Developer | Web Desginer</h6> 」
+    <br>
+    <br>
+  </samp>
 </p>
+
 <p align="center">
-   Are you an early 🐤 or a night 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   What are languages you code in?
-   <br/>
-   Let's check out in your profile readme!
+<a href="https://swamithedev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codesandbox&label=&color=050504&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="vercel logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/swaminathanselvam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://codepen.io/SwamiTheDev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  </a>
+  
+  <a href="https://dev.to/swamithedev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="https://dribbble.com/swamiTheDev/about" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+  <a href="mailto:swamithedev.gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/swamithedev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</p>
+<br />
+
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: swamithedev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://swamithedev.vercel.app/#contact)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+## Top Open Source -
+
+[![Mobile Marvels](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=MobileMarvels&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/MobileMarvels)
+[![Github Profile Finder](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=github_profile_finder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/github_profile_finder)
+[![BodyBlitz Gym](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=gym_website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/gym_website)
+[![ADVENTURE](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=Adventure&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/Adventure)
+[![YumYum Junction](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=YumYum-Junction&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/YumYum-Junction)
+[![FORECASTFUSION](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=weather-site&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/weather-site)
+[![BMI Calculator](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=BMI-Calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/BMI-Calculator)
+
+<p align="left">
+  <a href="https://github.com/SwamiTheDev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/swamithedev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swamithedev&theme=radical&border=7F3FBF&background=0D1117" alt="Swamithedev's GitHub streak"/>
+  </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anmol098/waka-readme-stats/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anmol098/waka-readme-stats/issues">Request Feature</a>
-  </p>
-
-## Prep Work
-
-1. You need to update the markdown file(.md) with 2 comments. You can refer [here](#update-your-readme) for updating it.
-2. You'll need a WakaTime API Key. You can get that from your WakaTime Account Settings
-    - You can refer [here](#new-to-wakatime), if you're new to WakaTime
-3. You'll need a GitHub API Token with `repo` and `user` scope from [here](https://github.com/settings/tokens) if you're running the action to get commit metrics
-   > enabling the `repo` scope seems **DANGEROUS**<br/>
-   > but this GitHub Action only accesses your commit timestamp and lines of code added or deleted in repository you contributed.
-   - You can use [this](#profile-repository) example to work it out
-4. You need to save the WakaTime API Key and the GitHub API Token in the repository secrets. You can find that in the Settings of your repository. Be sure to save those as the following.
-    - WakaTime API Key as `WAKATIME_API_KEY=<your wakatime API Key>`
-    - GitHub Personal Access Token as `GH_TOKEN=<your github access token>`
-5. You can enable and disable feature flags based on requirements.
-
-
-This Action will run everyday at 00.00 IST
-
-## Update your Readme
-
-Add a comment to your `README.md` like this:
-
-```md
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-```
-
-These lines will be our entry-points for the dev metrics.
-
-## New to WakaTime
-
-WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
-
-- Head over to <https://wakatime.com> and create an account.
-- Get your WakaTime API Key from your [Account Settings in WakaTime](https://wakatime.com/settings/account).
-- Install the [WakaTime plugin](https://wakatime.com/plugins) in your favourite editor / IDE.
-- Paste in your API key to start the analysis.
-
-### Profile Repository
-
-You'll need to get a [GitHub Access Token](https://docs.github.com/en/actions/configuring-and-managing-workflows/authenticating-with-the-github_token) with a `repo` and `user` scope and save it in the Repo Secrets `GH_TOKEN = <Your GitHub Access Token>`
-
-Here is Sample Workflow File for running it:
-
-```yml
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-```
-- Now you can commit and wait for run automatically, but you can also trigger to run it to see the result now. Just go to the `Actions` in your repo and select your `Profile Readme Development Stats` workflow and click in `Run workflow`. Now wait for a minute or two and you will see your changes.
-
-## Extras
-
-1. If you want to add the other info to your stats, you can add multiple `FLAGS` in your workflow file by default all flags are enabled 
->except the lines of code flag due to heavy operation performed
-
-```yml
-- uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-```
-
-### Flags Available
-
----
-
-`LOCALE`  This Flag can be used to show stats in your language default is english uses Locale [Short Hand](https://saimana.com/list-of-country-locale-code/) to be passed in the flag variable example of the final result can be found [here](https://github.com/anmol098/anmol098/blob/master/Readme-fr.md)
-
-`COMMIT_BY_ME`        flag can be set to `True` to commit the code using your name and email
-
-`SHOW_LINES_OF_CODE`       flag can be set to `True` to show the Lines of code writen till date
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
-
-`SHOW_PROFILE_VIEWS`       flag can be set to `False` to hide the Profile views
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)
-
-
-`SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
-
-**I'm an early 🐤** 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
-
-`SHOW_DAYS_OF_WEEK`       flag can be set to `False` to hide the commits made on different days of week
-
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
-
-```
-
-`SHOW_LANGUAGE`       flag can be set to `False` to hide the Coding Language You use
-
-```text
-💬 Languages:
-JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97%
-PHP                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
-```
-
-
-`SHOW_OS`       flag can be set to `False` to hide the OS details
-
-```text
-💻 Operating Systems:
-Windows                  8 hrs 46 mins       █████████████████████████   100.0%
-```
-
-`SHOW_PROJECTS` flag can be set to `False` to hide the Projects worked on
-
-```text
-🐱‍💻 Projects:
-ctx_connector            4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   46.33%
-NetSuite-Connector       1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29%
-mango-web-master         1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
-cable                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.41%
-denAPI                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66%
-```
-
-`SHOW_TIMEZONE` flag can be set to `False` to hide the time zone you are in
-
-```text
-⌚︎ Timezone: Asia/Calcutta
-```
-
-`SHOW_EDITORS`  flag can be set to `False` to hide the list of code-editors used
-
-```text
-🔥 Editors:
-WebStorm                 6 hrs 47 mins       ███████████████████░░░░░░   77.43%
-PhpStorm                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
-PyCharm                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
-```
-
-`SHOW_LANGUAGE_PER_REPO`  flag can be set to `False` to hide the Number of repository in different language and frameworks
-
-**I mostly code in Vue** 
-
-```text
-Vue          8 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Java         6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-JavaScript   6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-PHP          3 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Dart         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-`SHOW_SHORT_INFO`  flag can be set to `False` to hide the short fun fact info of user
->This section requires personal access token with user permission otherwise data shown will be incorrect here
-
-**🐱 My GitHub Data** 
-
-> 🏆 433 Contributions in year 2020
- > 
-> 📦 Used 292.3 kB in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repository 
- > 
-> 🔑 15 Owned Private Repository 
-
-`SHOW_LOC_CHART`  flag can be set to `False` to hide the Lines of code written in different quarters of different year
-
-`IGNORED_REPOS`  flag can be set to `"waka-readme-stats, my-first-repo"` (just an example) to ignore some repos you don’t want to be counted
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
-
-## :sparkling_heart: Support the project
-
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
-
-However, if you are using this project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
-
-- Giving proper credit when you use this action on your readme, linking back to it :D
-- Starring and sharing the project :rocket:
-- [![paypal.me/aapreneur](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/aapreneur) - You can make one-time donations via PayPal. I'll probably buy a ~~beer~~ wine 🍷
-
-Thanks! :heart:
-
----
-
-# Contributing
-
-Contributions are welcome! ♥! Please share any features, and add unit tests! Use the pull request and issue systems to contribute.
-
-# Selected Contributors
-
-1. [Anmol Pratap Singh](https://github.com/anmol098): Maintainer
-2. [Prabhat Singh](https://github.com/prabhatdev): For code timeline graph [#18](https://github.com/anmol098/waka-readme-stats/pull/18)
-2. [Aravind V. Nair](https://github.com/aravindvnair99): For Pull Request [#188](https://github.com/anmol098/waka-readme-stats/pull/188) And Other improvements
-3. [Hedy Li](https://github.com/hedythedev): For Pull Request [#34](https://github.com/anmol098/waka-readme-stats/pull/34) and [#23](https://github.com/anmol098/waka-readme-stats/pull/23)
-4. [Pedro Torres](https://github.com/Corfucinas): For Pull Request [#29](https://github.com/anmol098/waka-readme-stats/pull/29)
-5. [Aaron Meese](https://github.com/ajmeese7): For Pull Request [#45](https://github.com/anmol098/waka-readme-stats/pull/45)
-6. [Arnav Jindal](https://github.com/Daggy1234): For Pull Request [#48](https://github.com/anmol098/waka-readme-stats/pull/48)
-7. [Daniel Rowe](https://github.com/DanRowe): For Pull Request [#57](https://github.com/anmol098/waka-readme-stats/pull/57)
-8. [Ss5h](https://github.com/tlatkdgus1): For adding support for natural sentence writing for translatio [#136](https://github.com/anmol098/waka-readme-stats/pull/136)
-
-<details>
-<summary>Special mention for those who are currently making their profile readme more awesome :smile: :tada:</summary>
-
-  - [Stanislas](https://github.com/angristan)
-  
-  - [Pratik Kumar](https://github.com/pr2tik1)
-  
-  - [Vladimir](https://github.com/sergeev-vn)
-
-  - [Pedro Torres](https://github.com/Corfucinas)
-  
-  - [leverglowh](https://github.com/leverglowh)
-  
-  - [patdc](https://github.com/patdc)
-  
-  - [极客挖掘机](https://github.com/meteor1993)
-  
-  - [Fan()](https://github.com/Fanduzi)
-  
-  - [Miller Camilo Vega](https://github.com/minoveaz)
-  
-  - [XLor](https://github.com/yjl9903)
-  
-  - [Jesse Okeya](https://github.com/jesseokeya)
-  
-  - [anaiel](https://github.com/anaiel)
-  
-  - [Dipto Mondal](https://github.com/diptomondal007)
-  
-  - [Jerry F. Zhang](https://github.com/JerryFZhang)
-  
-  - [Karan Singh](https://github.com/karan06126)
-  
-  - [Erwin Lejeune](https://github.com/guilyx)
-  
-  - [Manuel Cepeda](https://github.com/mecm1993)
-  
-  - [Jonathan S](https://github.com/TGTGamer)
-  
-  - [Tsotne Gvadzabia](https://github.com/RockiRider)
-  
-  - [Miray](https://github.com/MirayXS)
-  
-  - [Varad Patil](https://github.com/varadp2000)
-  
-  - [Prabhat Singh](https://github.com/prabhatdev)
-  
-  - [Nikhil](https://github.com/nikhilgorantla)
-  
-  - [大白](https://github.com/2720851545)
-  
-  - [Du Yizhuo](https://github.com/dyzdyz010)
-  
-  - [Manas Talukdar](https://github.com/manastalukdar)
-  
-  - [Simranjeet Singh](https://github.com/smrnjeet222)
-  
-  - [Aaron Meese](https://github.com/ajmeese7)
-  
-  - [Prasad Narkhede](https://github.com/p014ri5)
-  
-  - [Manish Kushwaha](https://github.com/tzmanish)
-  
-  - [Hedy Li](https://github.com/hedythedev)
-  
-  - [SHIMIZU Taku](https://github.com/takuan-osho)
-  
-  - [Jude Wilson](https://github.com/mr-winson)
-  
-  - [Daniel Rowe](https://github.com/DanRowe)
-  
-  - [Muhammad Hassan Ahmed](https://github.com/hassan11196)
-  
-  - [Alessandro Maggio](https://github.com/Tkd-Alex)
-  
-  - [Siddharth Gupta](https://github.com/siddg97)
-  
-  - [Dev-Mehta](https://github.com/Dev-Mehta/)
-  
-  - [> EdgyCoder ✌](https://github.com/edgycoder)
-  
-  - [> EdgyCoder ✌](https://github.com/edgycoder)
-  
-  - [Korel Kashri](https://github.com/korelkashri)
-  
-  - [Gustavo Barbosa](https://github.com/gusbdev)
-
-  - [eagleanurag](https://github.com/eagleanurag)
-  
-  - [Aravind V. Nair](https://github.com/aravindvnair99)
-  
-  - [Raman Preet Singh](https://github.com/raman08)
-  
-  - [Hayat Tamboli](https://github.com/hayat-tamboli)
-  
-  - [Henry Boisdequin](https://github.com/henryboisdequin)
-   
-  - [Raman Preet Singh](https://github.com/raman08)
-  
-  - [Aadit Kamat](https://github.com/aaditkamat)
-    
-  - [Subhalingam D](https://github.com/subhalingamd)
-  
-  - [Adil Akhmetov](https://github.com/weeebdev)
-  
-  - [Isaac Maldonado](https://github.com/einjunge99)
-  
-  - [Syed Faateh Sultan Kazmi](https://github.com/faatehsultan)
-
-  
-
-</details>
-
-- And you! If ever you are using it right now and you are not on the list please tell us by sending a [Special Mention](https://github.com/anmol098/waka-readme-stats/issues/new/choose) issue :blush: we are glad to add you in the list.
-
-
-Made with :heart: and Python 🐍.
-
-# Inspired From
-
-> [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists) <br/>
-> [athul/waka-readme](https://github.com/athul/waka-readme)
-
-### This project need a **star** ⭐ from you ♥.
+  <a href="https://github.com/swamithedev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swamithedev&theme=radical" alt="Swamithedev's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Swamithedev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=swamithedev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/swamithedev"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swamithedev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Swamithedev's Graph](https://github-readme-activity-graph.vercel.app/graph?username=swamithedev&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
