@@ -69,11 +69,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-👋 Hi there! I'm Swaminthan Selvam, a passionate and creative frontend web developer ready to embark on an exciting journey in the digital world. <br>
-🚀 I believe that every pixel on the web matters, and I'm on a mission to craft visually stunning and user-friendly websites that leave a lasting impression.<br>
-💡 As a lifelong learner, I'm constantly exploring the ever-evolving landscape of web technologies, from HTML5 and CSS3 to JavaScript and modern frameworks like React.<br>
-🤝 I'm excited about collaborating with like-minded individuals, sharing ideas, and turning them into beautiful, functional websites that provide seamless user experiences. <br>
-🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.<br>
+👋 Hi there! I'm Swaminthan Selvam, a passionate and creative frontend web developer ready to embark on an exciting journey in the digital world. <br><br>
+🚀 I believe that every pixel on the web matters, and I'm on a mission to craft visually stunning and user-friendly websites that leave a lasting impression.<br><br>
+💡 As a lifelong learner, I'm constantly exploring the ever-evolving landscape of web technologies, from HTML5 and CSS3 to JavaScript and modern frameworks like React.<br><br>
+🤝 I'm excited about collaborating with like-minded individuals, sharing ideas, and turning them into beautiful, functional websites that provide seamless user experiences. <br><br>
+🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.<br><br>
 </p>
 
 <br/>
@@ -85,7 +85,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jquery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -96,12 +96,14 @@
 ![Bootstrap 5](https://img.shields.io/badge/bootstrap-0170FE?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-2E7EEA?style=for-the-badge&logo=axios&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Code Pen](https://img.shields.io/badge/codepen-0078d7?style=for-the-badge&logo=Code%20Pen&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
