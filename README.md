@@ -68,11 +68,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: swamithedev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://swamithedev.vercel.app/#contact)
-
+👋 Hi there! I'm Swaminthan Selvam, a passionate and creative frontend web developer ready to embark on an exciting journey in the digital world. 
+🚀 I believe that every pixel on the web matters, and I'm on a mission to craft visually stunning and user-friendly websites that leave a lasting impression.
+💡 As a lifelong learner, I'm constantly exploring the ever-evolving landscape of web technologies, from HTML5 and CSS3 to JavaScript and modern frameworks like React.
+🤝 I'm excited about collaborating with like-minded individuals, sharing ideas, and turning them into beautiful, functional websites that provide seamless user experiences. 
+🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.
 </p>
 
 <br/>
