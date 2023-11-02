@@ -29,11 +29,12 @@
 <p align="center"> 
   <samp>
      <h6 align="center" color='black'>「 Passionate Web Developer | Crafting Digital Experiences with Code 🚀 | HTML5, CSS3, JavaScript, React, Vue.js | Front End Developer | UI/UX Developer | Web Developer | Web Desginer 」</h6> 
-     <a align="center" href="https://www.google.com/search?q=swamithedev&oq=swamithedev&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRhBMgYIBBBFGDwyBggFEEUYQTIGCAYQRRhBMgYIBxBFGDzSAQg0Mjc4ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8">「 Google Me 」</a>
+    
     <br>
     <br>
   </samp>
 </p>
+ <a align="center" href="https://www.google.com/search?q=swamithedev&oq=swamithedev&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRhBMgYIBBBFGDwyBggFEEUYQTIGCAYQRRhBMgYIBxBFGDzSAQg0Mjc4ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8">「 Google Me 」</a>
 
 <p align="center">
 <a href="https://swamithedev.vercel.app/" target="_blank">
