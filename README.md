@@ -120,9 +120,9 @@
 <p align="left">
   <a href="https://github.com/SwamiTheDev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-<br/>
+ 
 <hr/>
-<br/>
+ 
 
 ## ☕ Buy Me a Coffee
 
@@ -131,10 +131,9 @@ If you find my open-source projects and contributions helpful or inspiring, cons
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-%23FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/swamithedev)
 
 Your support is greatly appreciated! 🙌😊
-
-<br/>
+ 
 <hr/>
-<br/>
+ 
 
 <p align="center">
   <a href="https://github.com/swamithedev">
