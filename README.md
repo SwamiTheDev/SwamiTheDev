@@ -76,6 +76,13 @@
 🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.<br><br>
 </p>
 
+### ☕ Buy Me a Coffee ☕
+
+If you find my open-source contributions or projects helpful and would like to support my work, consider buying me a coffee! Your support helps keep me fueled and motivated to create more awesome stuff! 😊
+
+<a href="https://www.buymeacoffee.com/swamithedev" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?slug=swamithedev&button=Buy me a coffee&emoji=&emoji_color=#FFDD00&slug=swamithedev" alt="Buy me a coffee" width="200"></a>
+
+Thank you for your support! 🙏
 <br/>
 <br/>
 <br/>
