@@ -75,15 +75,7 @@
 🤝 I'm excited about collaborating with like-minded individuals, sharing ideas, and turning them into beautiful, functional websites that provide seamless user experiences. <br><br>
 🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.<br><br>
 </p>
-
-### ☕ Buy Me a Coffee ☕
-
-If you find my open-source contributions or projects helpful and would like to support my work, consider buying me a coffee! Your support helps keep me fueled and motivated to create more awesome stuff! 😊
-
-<a href="https://www.buymeacoffee.com/swamithedev" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?slug=swamithedev&button=Buy me a coffee&emoji=&emoji_color=#FFDD00&slug=swamithedev" alt="Buy me a coffee" width="200"></a>
-
-Thank you for your support! 🙏
-<br/>
+ 
 <br/>
 <br/>
 
@@ -123,6 +115,16 @@ Thank you for your support! 🙏
 [![YumYum Junction](https://github-readme-stats.vercel.app/api/pin/?username=swamithedev&repo=YumYum-Junction&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/YumYum-Junction)
 [![FORECASTFUSION](https://github-readme-stats.vercel.app/api/pin/?username=swamithedev&repo=weather-site&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/weather-site)
 [![BMI Calculator](https://github-readme-stats.vercel.app/api/pin/?username=swamithedev&repo=BMI-Calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SwamiTheDev/BMI-Calculator)
+
+
+## ☕ Buy Me a Coffee
+
+If you find my open-source projects and contributions helpful or inspiring, consider supporting my work with a coffee! Your support helps me stay awake and motivated to create more awesome stuff! ☕✨
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-%23FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/swamithedev)
+
+Your support is greatly appreciated! 🙌😊
+
 
 <p align="left">
   <a href="https://github.com/SwamiTheDev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
