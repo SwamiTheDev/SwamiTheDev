@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </p>
-<br />
+ 
 
 <!-- About Section -->
  # About me
@@ -76,8 +76,6 @@
 🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.<br><br>
 </p>
  
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -104,7 +102,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
+ 
 
 ## Top Open Source -
 
