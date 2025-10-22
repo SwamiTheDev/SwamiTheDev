@@ -69,11 +69,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-👋 Hi there! I'm Swaminthan Selvam, a passionate and creative frontend web developer ready to embark on an exciting journey in the digital world. <br><br>
-🚀 I believe that every pixel on the web matters, and I'm on a mission to craft visually stunning and user-friendly websites that leave a lasting impression.<br><br>
-💡 As a lifelong learner, I'm constantly exploring the ever-evolving landscape of web technologies, from HTML5 and CSS3 to JavaScript and modern frameworks like React.<br><br>
-🤝 I'm excited about collaborating with like-minded individuals, sharing ideas, and turning them into beautiful, functional websites that provide seamless user experiences. <br><br>
-🌐 With a deep appreciation for design principles and a strong attention to detail, I'm committed to turning concepts into reality while ensuring cross-browser compatibility and responsive design.<br><br>
+👋 Hi there! I'm Swaminathan Selvam, a passionate and creative MERN Stack Developer ready to make an impact in the digital world. <br><br>
+🚀 I love building dynamic, responsive, and scalable web applications that blend performance with clean design. From intuitive front-end interfaces to robust back-end logic, I enjoy bringing full-stack ideas to life. <br><br>
+💡 A constant learner, I keep exploring the evolving web ecosystem — mastering MongoDB, Express.js, React, and Node.js, along with modern tools and libraries to enhance development efficiency. <br><br>
+🤝 Collaboration drives me — I enjoy working with teams, exchanging ideas, and creating meaningful digital experiences that solve real-world problems. <br><br>
+🌐 With a strong eye for detail and a deep focus on user experience, performance, and maintainability, I’m committed to building applications that are not only functional but truly engaging. <br><br>
 </p>
  
 
