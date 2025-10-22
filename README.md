@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <samp>
-     <h6 align="center" color='black'>「 Passionate Web Developer | Crafting Digital Experiences with Code 🚀 | HTML5, CSS3, JavaScript, React, Vue.js | Front End Developer | UI/UX Developer | Web Developer | Web Desginer 」</h6> 
+     <h6 align="center" color='black'> 「 Passionate MERN Stack Developer | Building Scalable Web Applications 🚀 | MongoDB, Express.js, React, Node.js | Full Stack Developer | Front End Developer | Back End Developer | Web Developer 」</h6> 
  
   </samp>
 </p>
